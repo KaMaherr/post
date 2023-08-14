@@ -1,10 +1,12 @@
 {
- "posts": [
-    { "id": 1,  "body": "Hello Mr.Yasir" },
-    { "id": 2,  "body": "Welcome" }
+  "posts": [
+    { "id": 1,"body": "Hey Mr.Yasir" },
+  { "id": 2,"body": "Welcome" }
+
   ],
   "comments": [
     { "id": 1, "body": "Welcome", "postId": 1 },
-        { "id": 1, "body": "Hello Mr.Yasir", "postId": 2 },
-  ],
+    { "id": 2, "body": "Hey Mr.Yasir", "postId": 2 }
+  ]
+
 }
